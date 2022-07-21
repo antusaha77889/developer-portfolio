@@ -5,7 +5,7 @@ body{
 .orange-color{
     color: orange;
 }
-section{
+.flexible-container{
     display: flex;
 }
 .first-half{
@@ -35,4 +35,7 @@ section{
 }
 .dream-big{
     background-image: url(img/pure-html-css-hexagon-gradient-background.webp);
+}
+.flexible-container{
+    display: flex;
 }
